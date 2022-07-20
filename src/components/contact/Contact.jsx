@@ -66,7 +66,11 @@ const Contact = () => {
             <RiMessengerLine className="contact__option-icon" />
             <h4>Messenger</h4>
             <h5>Andres.Cuevas</h5>
-            <a href="https://m.me/tEstO.TrancE" target="_blank">
+            <a
+              href="https://m.me/tEstO.TrancE"
+              target="_blank"
+              rel="noreferrer"
+            >
               Send a message
             </a>
           </article>
@@ -77,6 +81,7 @@ const Contact = () => {
             <a
               href="https://api.whatsapp.com/send?phone=+525579668286"
               target="_blank"
+              rel="noreferrer"
             >
               Send a message
             </a>

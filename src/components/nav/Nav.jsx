@@ -7,43 +7,43 @@ import { RiServiceLine } from "react-icons/ri";
 import { MdOutlineMessage } from "react-icons/md";
 
 const Nav = () => {
-  const [activeNav, setActiveNav] = useState("#");
+  const [activeNav, setActiveNav] = useState("#home");
   return (
     <nav>
       <a
-        href="#"
-        onClick={() => setActiveNav("#")}
-        className={activeNav === "#" ? "active" : ""}
+        href="#home"
+        onClick={() => setActiveNav("#home")}
+        className={activeNav === "#home" ? "active" : ""}
       >
-        <AiOutlineHome className="nav__icon"/>
+        <AiOutlineHome className="nav__icon" />
       </a>
       <a
         href="#about"
         onClick={() => setActiveNav("#about")}
         className={activeNav === "#about" ? "active" : ""}
       >
-        <AiOutlineUser className="nav__icon"/>
+        <AiOutlineUser className="nav__icon" />
       </a>
       <a
         href="#experience"
         onClick={() => setActiveNav("#experience")}
         className={activeNav === "#experience" ? "active" : ""}
       >
-        <BiBook className="nav__icon"/>
+        <BiBook className="nav__icon" />
       </a>
       <a
         href="#services"
         onClick={() => setActiveNav("#services")}
         className={activeNav === "#services" ? "active" : ""}
       >
-        <RiServiceLine className="nav__icon"/>
+        <RiServiceLine className="nav__icon" />
       </a>
       <a
         href="#contact"
         onClick={() => setActiveNav("#contact")}
         className={activeNav === "#contact" ? "active" : ""}
       >
-        <MdOutlineMessage className="nav__icon"/>
+        <MdOutlineMessage className="nav__icon" />
       </a>
     </nav>
   );
