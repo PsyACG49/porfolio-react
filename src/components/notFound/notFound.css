@@ -1,0 +1,40 @@
+.container__notFound {
+  width: 60%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+.image__notFound {
+  width: 65%;
+  height: 80%;
+}
+
+/* ==================== Meidia query (medium devices) ============================ */
+
+@media screen and (max-width: 1024px) {
+  .container__notFound {
+    width: 80%;
+  }
+
+  .image__notFound {
+    width: 90%;
+    height: 80%;
+  }
+}
+
+/* ==================== Meidia query (small devices) ============================ */
+
+@media screen and (max-width: 600px) {
+  .container__notFound {
+    width: 100%;
+  }
+
+  .image__notFound {
+    width: 80%;
+    height: 40%;
+  }
+}

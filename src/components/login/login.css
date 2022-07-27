@@ -1,0 +1,19 @@
+.container__login {
+  width: 80%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.login__form {
+  width: 35%;
+  text-align: center;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+
+.login__buttons {
+  display: flex;
+  justify-content: space-between;
+}
