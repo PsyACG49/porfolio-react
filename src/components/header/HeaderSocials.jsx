@@ -13,7 +13,11 @@ const HeaderSocials = () => {
       <a href="https://github.com" target="_blank" rel="noreferrer">
         <BsGithub />
       </a>
-      <a href="https://dribbble.com" target="_blank" rel="noreferrer">
+      <a
+        href="https://es-la.facebook.com/tEstO.TrancE"
+        target="_blank"
+        rel="noreferrer"
+      >
         <AiFillFacebook />
       </a>
     </div>
