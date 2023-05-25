@@ -61,12 +61,6 @@ header {
   object-position: top;
 }
 
-.me_logo {
-  width: 12rem;
-  height: 12rem;
-  object-fit: contain;
-}
-
 /* ========== Scroll Down ========= */
 
 .scroll_down {

@@ -1,6 +1,6 @@
 import React from "react";
-import IMG1 from "./../../assets/portfolio1.jpg";
-import IMG2 from "./../../assets/portfolio2.jpg";
+import IMG1 from "./../../assets/pf1.png";
+import IMG2 from "./../../assets/pf2.png";
 import IMG3 from "./../../assets/portfolio3.jpg";
 
 import "./portfolio.css";
@@ -17,10 +17,10 @@ const Portfolio = () => {
             <img src={IMG1} alt="title proyect" />
           </div>
 
-          <h3>This is a porfolio item title</h3>
+          <h3>CesStyling</h3>
           <div className="portfolio__item-cta">
             <a
-              href="http://tu"
+              href="https://github.com/PsyACG49/CesStyling"
               className="btm"
               target="_blank"
               rel="noreferrer"
@@ -28,7 +28,7 @@ const Portfolio = () => {
               GitHub
             </a>
             <a
-              href="http://yo"
+              href="https://ces-style.web.app/"
               className="btm"
               target="_blank"
               rel="noreferrer"
@@ -42,10 +42,10 @@ const Portfolio = () => {
             <img src={IMG2} alt="title proyect" />
           </div>
 
-          <h3>This is a porfolio item title</h3>
+          <h3>ECAM COYOACAN</h3>
           <div className="portfolio__item-cta">
             <a
-              href="http://tu"
+              href="https://github.com/PsyACG49/ecam"
               className="btm"
               target="_blank"
               rel="noreferrer"
@@ -53,7 +53,7 @@ const Portfolio = () => {
               GitHub
             </a>
             <a
-              href="http://yo"
+              href="https://psyacg49.github.io/ecam/"
               className="btm"
               target="_blank"
               rel="noreferrer"
