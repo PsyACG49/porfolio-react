@@ -17,7 +17,7 @@ const Portfolio = () => {
             <img src={IMG1} alt="title proyect" />
           </div>
 
-          <h3>CesStyling</h3>
+          <h3>C´Style</h3>
           <div className="portfolio__item-cta">
             <a
               href="https://github.com/PsyACG49/CesStyling"
