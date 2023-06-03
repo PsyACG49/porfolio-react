@@ -1,7 +1,6 @@
 import React from "react";
 import { FaAward } from "react-icons/fa";
 import { AiFillFolderOpen } from "react-icons/ai";
-import ME from "../../assets/me-about.jpg";
 import "./about.css";
 
 const About = () => {
@@ -12,7 +11,7 @@ const About = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-img">
-            <img src={ME} alt="me" />
+            <img src="https://i.ibb.co/rdFDb5C/me-about.jpg" alt="me" />
           </div>
         </div>
         <div className="about__content">

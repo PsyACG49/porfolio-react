@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "img": "https://i.ibb.co/Tr4SsRq/avatar1.jpg",
+    "bussine": "Bussines",
+    "comment": "Andres es el mejor de lo programdors. Sit itaque neque laboriosam accusamus deserunt earum, et alias deleniti, iste quaerat eius, natus placeat ut delectus odit. Eaque ipsam enim accusamus?"
+  },
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/zrgbs5n/avatar2.jpg",
+    "bussine": "Bussines",
+    "comment": "Andres es el mejor de lo programdors. Sit itaque neque laboriosam accusamus deserunt earum, et alias deleniti, iste quaerat eius, natus placeat ut delectus odit. Eaque ipsam enim accusamus?"
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/Gt8K6nR/avatar3.jpg",
+    "bussine": "Bussines",
+    "comment": "Andres es el mejor de lo programdors. Sit itaque neque laboriosam accusamus deserunt earum, et alias deleniti, iste quaerat eius, natus placeat ut delectus odit. Eaque ipsam enim accusamus?"
+  }
+]

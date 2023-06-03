@@ -1,0 +1,54 @@
+[
+  {
+    "id": 0,
+    "title": "Frontend Development",
+    "experinces": [
+      {
+        "experience": "Javascript",
+        "level": "Expert"
+      },
+      {
+        "experience": "HTML",
+        "level": "Expert"
+      },
+      {
+        "experience": "CSS",
+        "level": "Expert"
+      },
+      {
+        "experience": "SASS",
+        "level": "Mid"
+      },
+      {
+        "experience": "React JS",
+        "level": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Backend Development",
+    "experinces": [
+      {
+        "experience": "Node JS",
+        "level": "Expert"
+      },
+      {
+        "experience": "MySQL",
+        "level": "Mid"
+      },
+      {
+        "experience": "MongoDB",
+        "level": "Expert"
+      },
+      {
+        "experience": "Express",
+        "level": "Expert"
+      },
+      {
+        "experience": "Mongoose",
+        "level": "Expert"
+      }
+    ]
+  }
+]
