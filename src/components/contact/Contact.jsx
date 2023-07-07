@@ -1,6 +1,7 @@
 import React from "react";
 import { HiOutlineMailOpen } from "react-icons/hi";
 import { RiMessengerLine } from "react-icons/ri";
+import { BsWhatsapp } from "react-icons/bs";
 import Loader from "../loader/Loader";
 import Message from "../message/Message";
 
@@ -75,7 +76,7 @@ const Contact = () => {
             </a>
           </article>
           <article className="contact__option">
-            <HiOutlineMailOpen className="contact__option-icon" />
+            <BsWhatsapp className="contact__option-icon" />
             <h4>WhatsApp</h4>
             <h5>5579668286</h5>
             <a
